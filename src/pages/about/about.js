@@ -8,4 +8,6 @@ class Page {
   }
 }
 
-export default new Page();
+window.about = new Page();
+
+export default window.about;
