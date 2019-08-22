@@ -1,4 +1,4 @@
-# Simple JS app with Webpack and router
+# Simple JS app with Webpack, router and Tailwind
 
 To run:
 
