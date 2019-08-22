@@ -1,8 +1,13 @@
-<h1>Home</h1>
+<h1 class="font-bold m-3 text-2xl">Home</h1>
 
-<a href="" onClick="home.click(); return false;">Click here</a>
+<a
+  href=""
+  class="text-blue-500 hover:text-blue-800"
+  onClick="home.click(); return false;"
+  >Click here</a
+>
 
-<ul>
+<ul class="m-4 list-disc">
   {% for item in items %}
   <li>{{ item.title }}</li>
   {% else %}
