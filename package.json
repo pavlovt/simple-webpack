@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "copy-webpack-plugin": "^5.0.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "navigo": "^7.1.2",
     "nunjucks": "^3.2.0",
     "path": "^0.12.7",
